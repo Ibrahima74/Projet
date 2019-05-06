@@ -5,7 +5,7 @@ import copy
 # file direction first Line must be the nomber of booking request
 # second Line the start days of renting
 # thirt Line the last day of renting
-path = '/Users/Fosso Print/Desktop/projets/PYTHON/car rent/Inputs.txt'
+path = '/Users/Ibrahima Print/Desktop/projets/PYTHON/lease rent/Input.txt'
 
 # Open the file and take the inputs
 myFile = open(path, 'r')
